@@ -10,5 +10,5 @@ If the file has been updated download the full TeamCode folder and replace the o
 
 ---------
 
-# SkyStone files can be found here
+# Base SkyStone files can be found here
 (https://github.com/FIRST-Tech-Challenge/SkyStone "SkyStone GitHub")
