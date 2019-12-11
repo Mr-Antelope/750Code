@@ -1,7 +1,7 @@
 # 750Code
 The Place to Update Team 750's Robot Code
 
---------------------------------------------------
+-
 
-# Only Update Code if it's a new commit or if it's a bug fix
-Thank You -CJ
+# The Folder TeamCode is used to host out code (duh.)
+Using this Copy the folder and Paste it into SkyStone-master and press Copy All when it asks.
